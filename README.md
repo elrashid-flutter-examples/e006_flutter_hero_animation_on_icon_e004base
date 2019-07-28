@@ -1,5 +1,7 @@
 # e006_flutter_hero_animation_on_icon_e004base
 
+![app screen record](docs/screen_record.gif)
+
 ## Step 1
 
     IconButton(
